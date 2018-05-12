@@ -1,0 +1,30 @@
+_repo: Secret-Societies-And-Subversive-Movements_19104
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Webster, Nesta Helen
+    aliases:
+    - Bevan, Nesta
+    - Webster, Nesta H. (Nesta Helen)
+    birthdate: 1876
+    deathdate: 1960
+    gutenberg_agent_id: '8468'
+    url: http://www.gutenberg.org/2009/agents/8468
+    wikipedia: http://en.wikipedia.org/wiki/Nesta_Webster
+description: ''
+gutenberg_issued: '2006-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19104'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Secret societies'
+- !lcc 'HS'
+title: Secret Societies And Subversive Movements
+url: http://www.gutenberg.org/ebooks/19104
